@@ -1,0 +1,26 @@
+body{
+    color: brown;
+}
+
+ul{
+    background-color: gray;
+}
+
+main{
+    font-family:  Helvetica, sans-serif; 
+    font-size: 20px;
+}
+
+.black-border{
+    border: solid rgb(36, 160, 133);
+    margin: 25px 25px;
+    padding: 15px 20px 15px 20px;
+}
+
+ul{
+    background-color: burlywood;
+    list-style-type: none;
+    padding: 0%;
+    margin: 0%;
+}
+
